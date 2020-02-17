@@ -1,2 +1,0 @@
-# FirstPro
-Created with CodeSandbox
